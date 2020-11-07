@@ -14,4 +14,5 @@ Estructura del repositorio:
 
 ---
 
-Elaborado por [Ainhoa Manchado](http://Ainhoa-M.github.io), [Patricia Román](http://PatriciaRomanP.github.io), [Eider Gómez] (http://eidergomez.github.io), [Carlota Zapirain] (http://zapicharlot.github.io)
+Elaborado por [Ainhoa Manchado](http://Ainhoa-M.github.io), [Patricia Román](http://PatriciaRomanP.github.io), [Eider Gómez](http://eidergomez.github.io), [Carlota Zapirain](http://zapicharlot.github.io)
+
