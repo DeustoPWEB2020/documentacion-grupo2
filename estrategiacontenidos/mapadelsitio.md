@@ -1,4 +1,3 @@
 # Mapa del sitio
 
-https://drive.google.com/file/d/19amX9hHBzzxTVI4DLwebueuUHo4esKBV/view?usp=sharing
-
+![Imagen del mapa del sitio](https://github.com/DeustoPWEB2020/documentacion-grupo2/blob/main/estrategiacontenidos/diagramadeflujos.png?raw=true)
