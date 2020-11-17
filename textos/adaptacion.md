@@ -5,4 +5,3 @@
 -->
 
 algo
-más algo
