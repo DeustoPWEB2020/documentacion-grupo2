@@ -9,15 +9,20 @@
 El nombre **"Las Doce Tribus"** proviene de una cita del apóstol Pablo, pero desde su origen en 1972 en Tennessee ha sido conocido como: 
 
 > Cristian Community Chruch
->Northeast Kingdom Community Chruch
+
+> Northeast Kingdom Community Chruch
+
 > Las Comunidades Mesiánicas
+
 > La Orden Apostólica Comunitaria
 
 En definitiva, estamos hablando de *una organización religiosa* que adopta los **fundamentos cristianos**, también unos movimientos de las **raíces hebreas**, **el judaismo mesiánico** y el **nombre sagrado**
 * La Igesia debe ser restaurada a **su forma original** 
 
 > La Iglesia del primer siglo 
+
 > Crear un "nuevo Israel"
+
 > Doce Tribus en doce regiones geográficas
 
 El grupo creen que hay *tres destinos eternos*
