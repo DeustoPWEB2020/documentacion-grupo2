@@ -12,11 +12,11 @@ Es decir, gracias a convivir todos en un mismo terriotio, las personas socializa
 
 Esta claro que una ciudad se siente orgullo del pasado de su nación por que es la historia de su pais. Además, si un país gana alguna batalla estos se sienten orgullosos con el reto de países. 
 
-- **Guibernau** [2008,39] " las naciones recuerdan sus experiencias admirables y asombrosas, pero tambien evocan los momentos de sufimiento y humillación personal". 
+- **Guibernau** [2008,39] " las naciones recuerdan sus **experiencias** admirables y asombrosas, pero tambien evocan los momentos de sufimiento y humillación personal". 
 
 En algunos naciones  tambien se sente  orgullo con batallas fracasadas o por momentos duros. Por ejemplo: un país ha podido pasar un ataque terrorista que en el moment fue duro, pero luego el país se unio mas. 
 
-- **Guibernau** [2008,39] " el uso colectivo de la historia contribuye a la creación de una memoria colectiva rebosante de momentos trascendentes en la vida de la comunidad, sucesos y expericnias que permiten a las personas aumentar su autoestima al sentirse mienbros de una comunidad que ha demostrado ser capaz de grandes hazañas y que podria estar preparada para convertirse en una referencia mundial". 
+- **Guibernau** [2008,39] " el uso colectivo de la historia contribuye a la **creación de una memoria** colectiva rebosante de momentos trascendentes en la vida de la comunidad, sucesos y expericnias que permiten a las personas aumentar su autoestima al sentirse mienbros de una comunidad que ha demostrado ser capaz de grandes hazañas y que podria estar preparada para convertirse en una referencia mundial". 
 
 Cuando un terriotio, conoce todos los incidentes que ha tenido que superar a lo largo de su vida, se enorgullece como persona y como grupo. Gracias a la historia concoemos cómo se ha ido formando nuestra identidad a lo largo de la historia.
 
@@ -27,7 +27,7 @@ Es verdad que cada persona puede entender o tener diferentes viciones o valores 
 - **Guibernau**[2008;42]nuestros hogares, nuestros pueblos y nuestras ciudades se ha hallan en el terriotio de la nación". 
 
 **Conclusión**
-> La historia y el terriotorio ayudan a formar la identidad  nacional. 
+> La historia y el terriotorio ayudan a formar la identidad nacional. 
 > Gracias al oficio la peronsa crea tambien su identidad personal.
 > Gracias a concoer la historia de nuestra familia nos acercamos más a ellos. 
 El **nacionalismo** triunfara siempre y cuando el lazo que une a las personas sea verdadero en las actividades que realizen. 
