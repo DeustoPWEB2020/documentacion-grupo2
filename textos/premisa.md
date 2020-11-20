@@ -4,11 +4,13 @@ El _nacionalismo_ defiende que la entidad nacional se desarrolla es un territori
 2. Por que un país se siente orgulloso e identificado con la historia de su nación
 3. Gracias a la historia que tenemos nos acercamos más a nuestros antepasados.
 
-- Guibernau[2008;40]" La vida de los individuos se desenvolvió dentro de un pequeño territorio, en el que se concentraban las **estructuras laborales, religiosas y administrativas**". 
+- Guibernau[2008;40]" La vida de los individuos se desenvolvió dentro de un pequeño territorio, 
+en el que se concentraban las **estructuras laborales, religiosas y administrativas**". 
 
 Es decir, gracias a convivir todos en un mismo territorio, las personas socializan unos con otros y crean una familia, un negocio de algun tipo de oficio o una misma comunidad que piense lo mismo en cuanto a temas religiosos. Además, la identidad de cada persona se creaba debiado al oficio al que se dedicaba.
 
-- Guibernau[2008;38]" Los **miembros** de una nación tiendes a **sentirse orgullosos** de sus antiguas raíces y normalmente la interpretan como un signo de resistencia, de fuerza o incluso de superioridad".
+- Guibernau[2008;38]" Los **miembros** de una nación tiendes a **sentirse orgullosos** 
+de sus antiguas raíces y normalmente la interpretan como un signo de resistencia, de fuerza o incluso de superioridad".
 
 Está claro que una ciudad se siente orgullo del pasado de su nación por que es la historia de su pais. Además, si un país gana alguna batalla estos se sienten orgullosos con el reto de países. 
 
@@ -16,7 +18,8 @@ Está claro que una ciudad se siente orgullo del pasado de su nación por que es
 
 En algunas naciones también se sente  orgullo con batallas fracasadas o por momentos duros. Por ejemplo: un país ha podido pasar un ataque terrorista que en el momento fue duro, pero gracias a ello el país se unió mas. 
 
-- Guibernau[2008,39] "el uso colectivo de la historia contribuye a la **creación de una memoria** colectiva rebosante de momentos trascendentes en la vida de la comunidad, sucesos y experiencias que permiten a las personas aumentar su autoestima al sentirse miembros de una comunidad que ha demostrado ser capaz de grandes hazañas y que podría estar preparada para convertirse en una referencia mundial". 
+- Guibernau[2008,39] "el uso colectivo de la historia contribuye a la **creación de una memoria** 
+colectiva rebosante de momentos trascendentes en la vida de la comunidad, sucesos y experiencias que permiten a las personas aumentar su autoestima al sentirse miembros de una comunidad que ha demostrado ser capaz de grandes hazañas y que podría estar preparada para convertirse en una referencia mundial". 
 
 Cuando un territorio conoce todos los incidentes que ha tenido que superar a lo largo de su vida, se enorgullece como persona y como grupo. Gracias a la historia conocemos cómo se ha ido formando nuestra identidad a lo largo de la historia.
 
