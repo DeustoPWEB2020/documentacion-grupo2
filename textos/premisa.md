@@ -7,7 +7,7 @@ El _nacionalismo_ defiende que la entidad nacional se desarrolla es un territori
 - Guibernau[2008;40]" La vida de los individuos se desenvolvió dentro de un pequeño territorio, 
 en el que se concentraban las **estructuras laborales, religiosas y administrativas**". 
 
-Es decir, gracias a convivir todos en un mismo territorio, las personas socializan unos con otros y crean una familia, un negocio de algun tipo de oficio o una misma comunidad que piense lo mismo en cuanto a temas religiosos. Además, la identidad de cada persona se creaba debiado al oficio al que se dedicaba.
+Es decir, gracias a convivir todos en un mismo territorio, las personas socializan y crean una familia, un negocio en una misma comunidad que piense igual en cuanto a temas religiosos. Además, la identidad de cada persona se creaba debiado al oficio. 
 
 - Guibernau[2008;38]" Los **miembros** de una nación tiendes a **sentirse orgullosos** 
 de sus antiguas raíces y normalmente la interpretan como un signo de resistencia, de fuerza o incluso de superioridad".
