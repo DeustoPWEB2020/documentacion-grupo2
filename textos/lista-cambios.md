@@ -13,3 +13,5 @@ A continuación, redactaremos los cambios que hemos realizado para adaptar los t
 - **Frases**: evitar frases con múltiples oraciones. 
 - **Información**: lo más importante al principio de la frase. 
 - **Ideas**: distinguir las ideas principales de las secundarias. 
+
+El uso de la negrita es quizás el más utilizado por todas nosotras, esto es por que hemos creido que así resaltaríamos las palabras más importantes de cada texto y así leyendo solo estas palabras los lectores puedan saber de qué trata el texto. Comprimir los textos ha sido otro de los factores clave, como sabemos en la web no se pueden poner textos muy largos por que la gente los dejaría de leer en la mitad o incluso antes, por ello se han reducido un 40%. Las listas también son evidentes en nuestros textos, como mencionamos en la parte superior ayudan a que los textos sean más visuales y lector no se canse.
