@@ -8,12 +8,14 @@ El _nacionalismo_ defiende que la entidad nacional se desarrolla es un territori
 3. Gracias a la historia que tenemos nos acercamos más a nuestros antepasados.
 
 >Guibernau[2008;40]" La vida de los individuos se desenvolvió dentro de un pequeño territorio, 
-en el que se concentraban las **estructuras laborales, religiosas y administrativas**". 
+en el que se concentraban las **estructuras laborales, religiosas y administrativas**. A su vez, la identidad individual se defenía por las funciones que la persona desempeñaba dentro de los limites de ese territorio". 
 
-Es decir, gracias a convivir todos en un mismo territorio, las personas socializan y crean una familia, un negocio en una misma comunidad que piense igual en cuanto a temas religiosos. Además, la identidad de cada persona se creaba debiado al oficio. 
+Las persona nacen en un pueblo y la vida de estas se va creando a la misma vez que se van creando diferentes lazos como **los familiiares o las laborales**. Es decir, gracias a convivir todos en un mismo territorio, las personas socializan y crean una familia, un negocio en una misma comunidad que piense igual en cuanto a temas religiosos. Además, la identidad de cada persona se creaba debiado al oficio que se dedicaba dentro del pueblo,barrio, ciudad... 
+
+Debido al oficio al que te dedicaras cada perosna iba formando su identidad nacional.
 
 >Guibernau[2008;38]" Los **miembros** de una nación tiendes a **sentirse orgullosos** 
-de sus antiguas raíces y normalmente la interpretan como un signo de resistencia, de fuerza o incluso de superioridad".
+de sus antiguas raíces y normalmente la interpretan como un signo de resistencia, de fuerza o incluso de superioridad, al comparar su nación con otras que no pueden mostrar un pasado histórico prestigioso en el que la nación ejerció algún tipo de liderazgo". 
 
 Está claro que una ciudad se siente orgullo del pasado de su nación por que es la historia de su pais. Además, si un país gana alguna batalla estos se sienten orgullosos con el reto de países. 
 
