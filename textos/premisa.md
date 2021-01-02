@@ -18,10 +18,13 @@ Debido al oficio al que te dedicaras cada perosna iba formando su identidad naci
 de sus antiguas raíces y normalmente la interpretan como un signo de resistencia, de fuerza o incluso de superioridad, al comparar su nación con otras que no pueden mostrar un pasado histórico prestigioso en el que la nación ejerció algún tipo de liderazgo". 
 
 Está claro que una ciudad se siente orgullo del pasado de su nación por que es la historia de su pais. Además, si un país gana alguna batalla estos se sienten orgullosos con el reto de países. 
+**Ejemplo (ficticio)**: España gana hace 150 años una guerra a Francia, por lo tanto durante toda la historia España va a sentir más orgullo, mejor, con derecho a más privilegios en comparación con Francia ya que en ese momento fue España el ganador. 
 
 >Guibernau[2008,39] "las naciones recuerdan sus **experiencias** admirables y asombrosas, pero también evocan los momentos de sufrimiento y humillación personal". 
 
-En algunas naciones también se sente  orgullo con batallas fracasadas o por momentos duros. Por ejemplo: un país ha podido pasar un ataque terrorista que en el momento fue duro, pero gracias a ello el país se unió mas. 
+En algunas naciones también se sente orgullo con batallas fracasadas o por momentos duros. Por ejemplo: un país ha podido pasar un ataque terrorista que en el momento fue duro, pero gracias a ello el país se unió mas. 
+
+> Guibernau [2008,39]" las naciones recuerdan sus experiencias admirables y asombrosas, pero también evocan los momentos de sufrimiento y humillación personal". La nacion está orgullosa de la historia de su país. Sin embargo, en algunas naciones hay casos donde ciertas naciones tambien sienten orgullo con batllas fracasadas o momentos duro.**Ejemplo**: un país ha podido sufrir un ataque terrorista, que en el momento fue algo duro pero con el tiempo puede convertirse en algo positivo como la unión más fuerte de un país.  
 
 > Guibernau[2008,39] "el uso colectivo de la historia contribuye a la **creación de una memoria** 
 colectiva rebosante de momentos trascendentes en la vida de la comunidad, sucesos y experiencias que permiten a las personas aumentar su autoestima al sentirse miembros de una comunidad que ha demostrado ser capaz de grandes hazañas y que podría estar preparada para convertirse en una referencia mundial". 
