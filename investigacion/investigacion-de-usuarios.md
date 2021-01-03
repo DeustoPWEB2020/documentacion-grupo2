@@ -8,19 +8,7 @@
 - Creemos que el **20% de la población que se encuentra en una situación vulnerable a causa del COVID-19** puede encontrar la información suficiente como para darse cuenta de todo lo que engloba los diferentes movimientos religiosos. 
 -->
 
-## Respuestas
-
-<!--
-    Respuestas obtenidas en vuestro cuestionario.
--->
-
-## Conclusiones
-
-<!--
-    Interpretación o conclusiones extraídas de las respuestas obtenidas a vuestro cuestionario.
--->
-
-**3. Conclusiones y resultados:** 
+**3. Respuestas y conclusiones:**
 
 En total 62 personas han contestado a las preguntas de nuestro cuestionario acerca de las sectas y la religión. Comenzando por los datos de la edad, el 88,7% de los encuestados son personas entre 18 y 30 años, seguido por el 6,5% que son personas de entre 51-60 años y el 3,2% de 31 y 40 años. Finalemente hemos obtenido un 1,6% de la franja de edad entre 41 y 50 años.
 
@@ -79,11 +67,13 @@ Para concluir nuesta _segunda hipótesis_, queríamos saber lo que la gente opin
 es fácil que te capten miembros de una secta para que te adentres en la organización o no. El 48,4% 
 de las peronas opinan que no es facil que te capten, frente a un 37,1% que dice que sí lo es.
 Hay un 14,5% de personas que han optado pos abstenerse a contestar por no saber o no querer contestar
-a la pregunta 
+a la pregunta. 
 
+Cogiendo como ejemplo el caso de Patricia Aguilar, ocurrido en Espña en el año 2018, se demostró como las sectas a día de hoy consiguen entrar en los hogares de la gente sin que uno se dé cuenta, por ello, estos resultados dejan ver cómo la sociedad puede pensar que es algo muy difícil de ocurrir cuando, en la realidad, viendo la cantidad de gente actualemente está dentro de una secta y la de maneras que tienen para captarte, puede ser más facil de lo que las personas piensan. 
 
-Cogiendo como ejemplo el caso de Patricia Aguilar, ocurrido en España en el años 2018, se demostró cómo las sectas a día de hoy consiguen entrar en los hogares de la gente sin que uno se dé cuenta, por ello, estos resultados dejan ver cómo la sociedad puede pensar que es algo muy difícil de ocurrir cuando, en la realidad, viendo la cantidad de gente que actualmente está dentro de una secta y la de maneras que tienen para captarte, puede ser más fácil de lo que las personas se piensan. Por ello, y con la vulnerabilidad que el Covid-19 ha causado en la sociedad, mantenerse informado y conocer todo lo que engloban estas organizaciones religiosas es beneficioso para nuestro objetivo. 
-Finalmente, quisimos afirmar si nuestra idea de página web en el cual se proporcionará información sobre sectas y religión a través de podcast acompañadas de piezas informativas sería un atractivo para los usuarios. 
+Por ello, y con la vulnerabilidad que el COVID-19 ha causado en la sociedad, mantenerse informado y conocer tood lo que engloban estas organizacines religiosas es beneficioso para nuestro objetivo. 
+
+Finalmente, quisimos afirmar si nuestra idea de página web en el cual se proporcionará información sobre sectas y religión a traves de podcast aconpañadas de piezas informatuvas sería un atractivo para los usuarios. 
 Por un lado, un 61,3% de los encuestados afirmaron que sí es un formato atractivo por la cual informarse sobre sectas, y un 24,2% se posicionaron neutrales entendiendo esto que no les desagrada la idea. 
 Por el otro lado, haciendo la previa pregunta pero siendo el caso de información sobre religiones, el porcentaje de respuestas neutrales es mayor (30,6%). Aún el 50% de las personas se muestran favorables a la propuesta.
 En conclusión, podríamos afirmar que entre un 80-85% de las personas opinan que la propuesta de web que queremos lanzar es una buena idea y observamos así que, la aceptación de la web y su contenido sería alta.
