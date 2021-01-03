@@ -16,4 +16,21 @@ Nuestra visión de crear una pagina es que los usarios tengan la oportunidad de 
 
 ## Criterios de diseño
 
+Como ya hemos mencionado anteriormente nuestra página web sera sencilla. Queremos que el usuario disfrute del contenido. Por ello, sera una página web fácil. 
+A continuación explicaremos difentes planteamientos que tendremos en cuenta a la hora de realizar nuestra página web.
+1. En la navegación principal se incluiran solamente 5 apartados. 
+2. Se mostrará nuestro logo. 
+3. Las fotos y videos que se muestren serán de alta calidad. 
+4. Los colres que utilizaremos para el diseño de la página web seran sencillos.
+5. La tipografía que utilizaremos sera Times New Roman 12 ya que es sencilla. 
+6. Dejaremos espacios en blanco. 
+7. Dividir nuestros textos en párrafos cortos para no cansar al usuario.
+8. No utilizaremos muchas fuentes de distracción como lineas, botones, sombras o animaciones. 
+9. La interfaz creara una atmósfera pacífica desencadenando la creatividad del usuario. 
+10. Nuestra interfaz sera original y creativa.
+11. Jerarquía visual. 
+12. Daremos la opción de que el usuario tenga un _login_. De esta manera podra comentar y dar like al contenido. 
+
+
+
 ## Métricas de éxito
