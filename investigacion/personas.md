@@ -10,13 +10,18 @@
 
 ## Persona 1: Leo Gonzalez 
 
-Leo es un hombre de 17 años que vive en Rentería. Nacio el 15 de febrero de 20003 y tienr dos hermanas, Marta de 22 años y Patricia de 10 años. Vive con sus hermanas y con sus padres, Luis y Maria en Renteria. 
+Leo es un hombre de 17 años que vive en Rentería. Nacio el 15 de febrero de 20003 y tiene dos hermanas
+Marta y Patricia. Vive con estas y con sus padres, Luis y Maria en Renteria. 
 
-Leo estudia bachiller humanístico en el Instituto de Oiartzo. En un futuro le gustaría ser profesor de arte. Su mayor afición es dibujar, además de la música, la escultura y el baile. Asimismo, a Leo le encantan los idiomas y desde pequeño ha recibido clases de francés e inglés.
+Leo estudia bachiller humanístico en el Instituto de Oiartzo. En un futuro,
+le gustaría ser profesor de arte. Su mayor afición es dibujar, además de la música, la escultura y el baile. Asimismo, a Leo le encantan los idiomas y desde pequeño ha recibido clases de francés e inglés.
 
 Otra de sus aficiones es leer, sus favoritas son las novelas de ficción. También, recibe clases de pintura en la academia Art Akademi de la ciudad de Rentería. Leo se preocupa por su alimentación, es verdad que el baile se lo requiere. 
 
-Leo es una persona muy familiar, por ello realiza muchas actividades con su familia cuando no está con sus amigos. En su familia la **religión está muy presente**. Por ello, Leo es una persona muy creyente y practica el cristianismo desde bien pequeño. Su tía Lucia es monja y está en el convento de las Carmelitas Descalzas de San Sebastián. Desde muy pequeño, Leo ha ido a misa todos los domingos. Él tiene mucho interés en el tema de las sectas. Es un tema que le ha apasionado mucho desde pequeño. Sin embargo, es un tema tabú en su familia y no entiende muy bien por qué. 
+Leo es una persona muy familiar, por ello realiza muchas actividades con su familia cuando no está con sus amigos. En su familia la **religión está muy presente**. 
+Por ello, Leo es una persona muy creyente y practica el cristianismo desde bien pequeño. 
+Su tía Lucia es monja y está en el convento de las Carmelitas Descalzas de San Sebastián. 
+Desde muy pequeño, Leo ha ido a misa todos los domingos. Él tiene mucho interés en el tema de las sectas. Es un tema que le ha apasionado mucho desde pequeño. Sin embargo, es un tema tabú en su familia y no entiende muy bien por qué. 
 
 ## Persona 2: Nei Castellano
 
@@ -43,3 +48,30 @@ En total 62 personas han contestado a las preguntas de nuestro cuestionario acer
 Más de la mitad de las respuestas (69,4%) son de mujeres, quedando así un 29% de respuestas de hombres y un 1,6% de respuestas de gente que prefiere no revelar su género. A su vez, el 72,6% de los encuestados son personas con estudios universitarios. El 19,4% tienen un nivel educativo de formación profesional, el 6,5% estudios secundarios y finalmente un 1,6% tiene estudios primarios. 
 
 En primer lugar queríamos conocer si nuestros encuestados eran creyentes o no y a su vez si eran practicantes. Exceptuando una respuesta, el resto de los encuestadaos se sienten cómodos expresando su postura religiosa. En los resultados podemos observar por un aldo que, un 64,5% dicen no ser creyentes y, por otro lado, un 82,3% dice que no es practicante. Estos resultados nos indican que hay gente que sí es creyente, no es practicante, pero que aun así, de la muestra obtenida, la gran mayoría no es creyente de ninguna religión. 
+
+Los nuevos movimientos religiosos y las sectas, son, para una gran parte de la sociedad, 
+grupos preligrosos, que perjudican mentalmente y fisicamente a quienes forman parte de ellos.
+Generalmente esta es la visión que tiene la sociedad por estas organizaciones. 
+Esto puede ser, porque la mayoría de la información que se recibe sobre cualquiera de 
+estos movimientos sectarios proviene principalmente de los medios de comunicación, 
+es decir, de **la prensa, la televisión, la radio...**
+Estos medios suelen remarcar, con cierto sensacionalismo, los aspectos más destructivos 
+y las intenciones económicas y sexuales de los individuos que forman parte de estas organizaciones. 
+
+Es por ellos que es interesante descubrir cuánto se habla en nuestra sociedad de estos movimientos religiosos. Un 66,1% de los encuestados opinan que se habla muy poco sobre las sectas, 
+siguiendo por un 12,9% que opinan que es prácticamente nula la información sobre ellas. 
+
+Al cambiar la formulación de la pregunta, y sustituir la palabra "secta" por "movimientos religiosos" 
+la aceptación en nuestros encuestados subre favorablemente, sienco un 37,1% que opina que 
+se habla sobre las organizaciones de manera normal, seguido de un 32,3% que dice que 
+se habla bastante sobre estos movimientos. Con esto podemos entender que la palabra "secta"
+si que se condiera algo tabu en la sociedad española y no tanto los movimientos religiosos. 
+
+En relación a cómo consiguen los ciudadanos la información acerca de los diferentes movimientos religiosos 
+y las sectas, les hemos preguntado a nuestros encuestados, primero, si piensan que la información 
+sobre las sectas es accesible. La gran mayoría con un 69,4% opina que no es muy accesible. 
+Pero si volvemos a reformular la pregunta cambiando la palabra “secta” volvemos a ver que 
+los encuestados opinan lo contrario, que la información acerca de los movimientos religiosos sí es accesible. Esto afirma la primera de nuestras hipótesis: la gente no tiene una manera de encontrar 
+**información fiable y objetiva** acerca de este tipo de temas ya que sólo obtienen información de los medios más populares que provocan que haya un tabú sobre las sectas pero no sobre los diferentes movimientos religiosos más tradicionales. Somos conscientes de que la información acerca de las sectas es algo difícil. 
+Es complicado encontrar información sobre las sectas. Por ello, uno de nuestros objetivos es 
+que gracias a nuestra página web la sociedad tenga la oportunidad de aprender el funcionamiento de las diferentes de las que trataremos.
