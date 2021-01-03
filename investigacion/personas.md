@@ -6,7 +6,8 @@
 -->
 
                                     _INVESTIGACIÓN DE USUARIOS_
-1. **Avatares:**
+**1.Avatares:**
+
 ## Persona 1: Leo Gonzalez 
 
 Leo es un hombre de 17 años que vive en Rentería. Nacio el 15 de febrero de 20003 y tienr dos hermanas, Marta de 22 años y Patricia de 10 años. Vive con sus hermanas y con sus padres, Luis y Maria en Renteria. 
@@ -30,7 +31,7 @@ Entre otras aficiones se encuentra el running el cual práctica después de sali
 En su familia la **religión nunca ha estado muy presente** aún habiendo realizado la comunión y habiendo ido a un colegio y universidad cristiana. Sin embargo, es una persona muy interesada en la espiritualidad, de hecho posee muchos libros en su amplia biblioteca sobre temas de sectas y religiones del mundo. 
 
 
-2. **Hipótesis:** 
+**2.Hipótesis:** 
 
 - Creemos que el **30% de los usuarios se sensibilizará más acerca de las sectas**y que gracias al fácil acceso a la información que se proporciona a través de la página web se romperán estigmas que existían en la sociedad.
 - Creemos que el **20% de la población que se encuentra en una situación vulnerable a causa del COVID-19** puede encontrar la información suficiente como para darse cuenta de todo lo que engloba los diferentes movimientos religiosos. 
