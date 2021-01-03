@@ -2,8 +2,11 @@
 
 <!--
     Podéis definir varias personas al mismo nivel, o un personaje básico/principal y algunos secundarios. Adaptad la estructura del documento a vuestro caso.
+
 -->
 
+                                    _INVESTIGACIÓN DE USUARIOS_
+1. **Avatares:**
 ## Persona 1: Leo Gonzalez 
 
 Leo es un hombre de 17 años que vive en Rentería. Nacio el 15 de febrero de 20003 y tienr dos hermanas, Marta de 22 años y Patricia de 10 años. Vive con sus hermanas y con sus padres, Luis y Maria en Renteria. 
@@ -12,7 +15,7 @@ Leo estudia bachiller humanístico en el Instituto de Oiartzo. En un futuro le g
 
 Otra de sus aficiones es leer, sus favoritas son las novelas de ficción. También, recibe clases de pintura en la academia Art Akademi de la ciudad de Rentería. Leo se preocupa por su alimentación, es verdad que el baile se lo requiere. 
 
-Leo es una persona muy familiar, por ello realiza muchas actividades con su familia cuando no está con sus amigos. En su familia la religión está muy presente. Por ello, Leo es una persona muy creyente y practica el cristianismo desde bien pequeño. Su tía Lucia, hermana de su madre Maria, es monja y está en el convento de las Carmelitas Descalzas de San Sebastián. Desde muy pequeño, Leo ha ido a misa todos los domingos. Él tiene mucho interés en el tema de las sectas. Es un tema que le ha apasionado mucho desde pequeño. Sin embargo, es un tema tabú en su familia y no entiende muy bien por qué. 
+Leo es una persona muy familiar, por ello realiza muchas actividades con su familia cuando no está con sus amigos. En su familia la **religión está muy presente**. Por ello, Leo es una persona muy creyente y practica el cristianismo desde bien pequeño. Su tía Lucia es monja y está en el convento de las Carmelitas Descalzas de San Sebastián. Desde muy pequeño, Leo ha ido a misa todos los domingos. Él tiene mucho interés en el tema de las sectas. Es un tema que le ha apasionado mucho desde pequeño. Sin embargo, es un tema tabú en su familia y no entiende muy bien por qué. 
 
 ## Persona 2: Nei Castellano
 
@@ -23,7 +26,11 @@ Estudio en el colegio Irungo La Salle desde la guardería hasta 4º de ESO, los 
 Entre sus hobbies se encuentra el fútbol y la pintura.Cuando pasó a mudarse a Zaragoza por estudios abandonó este deporte y comenzó en la pintura. En la misma capital Nei asistió a clases de pintura en distintos estudios. No es amante de los idiomas, pero del colegio y bachillerato sabe hablar inglés y francés.
  
 Entre otras aficiones se encuentra el running el cual práctica después de salir de trabajar. La buena alimentación es también parte de su vida. Es una chica a la que le gusta estar mucho con sus amigos, salir a tomar algo o hacer planes de fin de semana. También pasa tiempo con su familia, procura verles todos los fines de semana y entre semana suele ir a visitar a sus padres y sus hermanos. 
- 
-En su familia la religión nunca ha estado muy presente aún habiendo realizado la comunión y habiendo ido a un colegio y universidad cristiana. Sin embargo, es una persona muy interesada en la espiritualidad, de hecho posee muchos libros en su amplia biblioteca sobre temas de sectas y religiones del mundo. 
+
+En su familia la **religión nunca ha estado muy presente** aún habiendo realizado la comunión y habiendo ido a un colegio y universidad cristiana. Sin embargo, es una persona muy interesada en la espiritualidad, de hecho posee muchos libros en su amplia biblioteca sobre temas de sectas y religiones del mundo. 
 
 
+2. **Hipótesis:** 
+
+- Creemos que el **30% de los usuarios se sensibilizará más acerca de las sectas**y que gracias al fácil acceso a la información que se proporciona a través de la página web se romperán estigmas que existían en la sociedad.
+- Creemos que el **20% de la población que se encuentra en una situación vulnerable a causa del COVID-19** puede encontrar la información suficiente como para darse cuenta de todo lo que engloba los diferentes movimientos religiosos. 
