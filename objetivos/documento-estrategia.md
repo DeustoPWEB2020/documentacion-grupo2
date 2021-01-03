@@ -32,5 +32,9 @@ A continuación explicaremos difentes planteamientos que tendremos en cuenta a l
 12. Daremos la opción de que el usuario tenga un _login_. De esta manera podra comentar y dar like al contenido. 
 
 
-
 ## Métricas de éxito
+- Queremos que el tráfico incremente evitando errores que incremente el riesgo a que los usuarios no les parezca una web práctica o no acabe de gustar el contenido. 
+- Queremos que el tráfico incremente evitando que incremente que los usuarios sientan la sensación de falta de información o que no informar no sea el objetivo de la página. 
+- Queremos que el tráfico incremente evitando que los suaurios no encuentren el motivo de la web. 
+- Queremos que el tráfico incremente evitando que los usuarios piensen que pueden ser captados. 
+- Queremos que el tráfico incremente evitando que los usuarios piensen que le damos más importancia a un movimiento religioso en comparación con otro en cuanto a la información que subamos y que por lo tanto, se presuponga que tenemos un "ranking" propio respecto a estos movimientos y en nuestra página web. 
