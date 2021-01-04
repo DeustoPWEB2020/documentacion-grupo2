@@ -78,3 +78,5 @@ Por un lado, un 61,3% de los encuestados afirmaron que sí es un formato atracti
 Por el otro lado, haciendo la previa pregunta pero siendo el caso de información sobre religiones, el porcentaje de respuestas neutrales es mayor (30,6%). Aún el 50% de las personas se muestran favorables a la propuesta.
 En conclusión, podríamos afirmar que entre un 80-85% de las personas opinan que la propuesta de web que queremos lanzar es una buena idea y observamos así que, la aceptación de la web y su contenido sería alta.
 
+Tenemos que aclarar que después de hacer el cuestionario hemos echo algunas afirmaciones que con el cuestionario que habiamos realizado no se habían respondido. Por ello, en la siguiente fase se volverá a repetir el cuestionario a los mismos participantes. 
+
