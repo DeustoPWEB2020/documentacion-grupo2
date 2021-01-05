@@ -83,7 +83,7 @@ Los individuos tienen que tener interés sobre estos temas, además de buscar di
 
 **¿Cuál es el trabajo mínimo que tenemos que hacer para aprender lo siguiente más importante?**
 
-Para poder resolver las hipótesis vamos a realizar un cuestionario a personas de diferente sexo,edad,lugar...etc para poder poner a prueba las suposiciones que hemos echo. 
+Para poder resolver las hipótesis vamos a realizar un cuestionario a personas de diferente sexo,edad,lugar,etc. De esta formar pondremos a prueba las suposiciones que hemos hecho. 
 
 
 </td></tr></tbody></table>
