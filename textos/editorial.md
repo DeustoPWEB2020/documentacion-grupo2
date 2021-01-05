@@ -12,11 +12,12 @@ Estas personas que **propagan dolor y muerte** dicen obrar en nombre de Dios, un
 
 La realidad es que estas personas **crean una islamofobia** en los países del mundo en donde actúan y atentan, dejando marginados a aquellos que creen en su Dios, a aquellos que viven en paz y expanden la palabra de Allah de forma civilizada en lugares libres de odio. 
 
-> Francia responde de forma pacífica realizando actos en memoria de aquellos a los que les arrebataron la vida. El país de la defensa de la libertad, la fraternidad y la igualdad está de luto por sus conciudadanos caídos. 
+Francia responde de forma pacífica realizando actos en memoria de aquellos a los que les arrebataron la vida. El país de la defensa de la libertad, la fraternidad y la igualdad está de luto por sus conciudadanos caídos. 
 
 Busca miradas cómplices entre los países europeos también afectados. Que los ciudadanos se unan a la lucha con el patriotismo. 
 
 Vemos la unidad cantando *La Marsellesa* en estadios, [delante de embajadas](https://www.youtube.com/watch?v=NabpPJbMMzc), [en el congreso](https://www.youtube.com/watch?v=bx_DqqYM72s) o en las calles del país.
+
 El propio Napoleón dijo:
 
 > Este himno podría levantar y unir al pueblo francés. 
