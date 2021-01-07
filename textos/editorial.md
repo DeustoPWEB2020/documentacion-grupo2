@@ -1,6 +1,6 @@
  # Serenidad, unidad, paz
 
- ![Lugar-de-atentado-Niza](https://github.com/DeustoPWEB2020/documentacion-grupo2/blob/Redacci%C3%B3n/textos/atentado-en-niza.jpg)
+ ![Lugar-de-atentado-Niza](https://github.com/DeustoPWEB2020/documentacion-grupo2/blob/main/textos/atentado-en-niza.jpg)
 
 El **terrorismo yihadista** ha quitado vidas a miles de personas en todo el mundo,  hace dos semanas se llevó la vida de tres personas en Niza (Francia) dejando a varias más heridas. Este país lleva en el punto de mira de los **islamistas radicales** desde hace años:
 
