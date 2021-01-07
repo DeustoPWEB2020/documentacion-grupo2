@@ -27,9 +27,9 @@ Desde muy pequeño, Leo ha ido a misa todos los domingos. Él tiene mucho inter�
 
 Nei es una mujer de 27 años que vive en Irun. Nació el 28 de julio de 1994. Tiene un hermano, Imanol de 25 años y Saioa de 16. Vive en un piso en el centro de la ciudad de Irun sola. 
  
-Estudio en el colegio Irungo La Salle desde la guardería hasta 4º de ESO, los estudios de bachillerato los realizó en el Instituto Pio Baroja de Irun la modalidad de ciencias bio-sanitarias en euskera y castellano. Posteriormente, comenzó sus estudios de veterinaria en Zaragoza, en la Universidad de San Jorge. A día de hoy trabaja en una clínica veterinaria de la ciudad donde reside.
+Estudió en el colegio Irungo La Salle desde la guardería hasta 4º de ESO, los estudios de bachillerato los realizó en el Instituto Pio Baroja de Irun la modalidad de ciencias bio-sanitarias en euskera y castellano. Posteriormente, comenzó sus estudios de veterinaria en Zaragoza, en la Universidad de San Jorge. A día de hoy trabaja en una clínica veterinaria de la ciudad donde reside.
  
-Entre sus hobbies se encuentra el fútbol y la pintura. Cuando pasó a mudarse a Zaragoza por estudios abandonó este deporte y comenzó en la pintura. No es amante de los idiomas, pero del colegio y bachillerato sabe hablar inglés y francés.
+Entre sus *hobbies* se encuentra el fútbol y la pintura. Cuando pasó a mudarse a Zaragoza por estudios abandonó este deporte y comenzó en la pintura. No es amante de los idiomas, pero del colegio y bachillerato sabe hablar inglés y francés.
  
 Entre otras aficiones se encuentra el *running* el cual práctica después de salir de trabajar. La buena alimentación es también parte de su vida. Es una chica a la que le gusta estar mucho con sus amigos, salir a tomar algo o hacer planes de fin de semana. También pasa tiempo con su familia, procura verles todos los fines de semana y entre semana suele ir a visitar a sus padres y sus hermanos. 
 
